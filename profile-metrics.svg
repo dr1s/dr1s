@@ -45,19 +45,19 @@
           </text>
           <g data-block="calendar-grid">
             <rect class="day" fill="#ebedf0" x="253" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#ebedf0" x="268" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#9be9a8" x="283" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="268" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#ebedf0" x="283" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#ebedf0" x="298" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#ebedf0" x="313" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#9be9a8" x="328" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="313" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#ebedf0" x="328" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#ebedf0" x="343" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#ebedf0" x="358" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#ebedf0" x="373" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#ebedf0" x="388" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#216e39" x="403" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#40c463" x="418" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#216e39" x="433" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#40c463" x="448" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#216e39" x="388" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#40c463" x="403" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#216e39" x="418" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#40c463" x="433" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#ebedf0" x="448" y="38" width="11" height="11" rx="2" ry="2"/>
           </g>
           <g transform="translate(253,56)" fill="#959da5">
             <svg width="16" height="16" viewBox="0 0 16 16" class="octicon">
@@ -162,7 +162,7 @@
           </svg>
         </g>
         <text x="277" y="102" font-size="14" fill="#777777">
-          Starred 127 repositories
+          Starred 126 repositories
         </text>
         <g transform="translate(253,110)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
@@ -170,7 +170,7 @@
           </svg>
         </g>
         <text x="277" y="122" font-size="14" fill="#777777">
-          Watching 64 repositories
+          Watching 61 repositories
         </text>
       </svg>
     </g>
@@ -216,7 +216,7 @@
           </svg>
         </g>
         <text x="37" y="102" font-size="14" fill="#777777">
-          82.8 MB used
+          119.3 MB used
         </text>
         <g transform="translate(253,30)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
@@ -248,7 +248,7 @@
           </svg>
         </g>
         <text x="277" y="102" font-size="14" fill="#777777">
-          33 Watchers
+          32 Watchers
         </text>
       </svg>
     </g>
@@ -260,7 +260,7 @@
           These metrics include private contributions
         </text>
         <text x="474" y="31" font-size="10" fill="#666666" font-style="italic" text-anchor="end">
-          Last updated 2026-09-12T02:08:05Z with mjun0812/github-metrics@dev
+          Last updated 2026-09-13T02:03:28Z with mjun0812/github-metrics@dev
         </text>
       </svg>
     </g>
