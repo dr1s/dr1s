@@ -36,20 +36,20 @@
             Followed by 27 users
           </text>
           <g data-block="calendar-grid">
-            <rect class="day" fill="#40c463" x="253" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#216e39" x="268" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#ebedf0" x="283" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#30a14e" x="298" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#ebedf0" x="313" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#216e39" x="253" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#ebedf0" x="268" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#30a14e" x="283" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#ebedf0" x="298" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="313" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="328" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#9be9a8" x="343" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#ebedf0" x="343" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#ebedf0" x="358" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#ebedf0" x="373" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#216e39" x="388" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#216e39" x="373" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#ebedf0" x="388" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#ebedf0" x="403" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#ebedf0" x="418" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#ebedf0" x="433" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#ebedf0" x="448" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#216e39" x="448" y="38" width="11" height="11" rx="2" ry="2"/>
           </g>
           <g transform="translate(253,56)" fill="#959da5">
             <svg width="16" height="16" viewBox="0 0 16 16" class="octicon">
@@ -57,7 +57,7 @@
             </svg>
           </g>
           <text x="277" y="68" font-size="14" fill="#777777">
-            Contributed to 4 repositories
+            Contributed to 18 repositories
           </text>
         </g>
       </svg>
@@ -130,7 +130,7 @@
           </svg>
         </g>
         <text x="277" y="42" font-size="14" fill="#777777">
-          Member of 0 organizations
+          Member of 1 organization
         </text>
         <g transform="translate(253,50)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
@@ -176,7 +176,7 @@
           </svg>
         </g>
         <text x="37" y="22" font-size="16" fill="#0366d6">
-          62 Repositories
+          47 Repositories
         </text>
         <g transform="translate(13,30)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
@@ -184,7 +184,7 @@
           </svg>
         </g>
         <text x="37" y="42" font-size="14" fill="#777777">
-          Prefers GNU AGPLv3 license
+          Prefers MIT license
         </text>
         <g transform="translate(13,50)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
@@ -208,7 +208,7 @@
           </svg>
         </g>
         <text x="37" y="102" font-size="14" fill="#777777">
-          231.3 MB used
+          192.9 MB used
         </text>
         <g transform="translate(253,30)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
@@ -224,7 +224,7 @@
           </svg>
         </g>
         <text x="277" y="62" font-size="14" fill="#777777">
-          59 Stargazers
+          58 Stargazers
         </text>
         <g transform="translate(253,70)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
@@ -232,7 +232,7 @@
           </svg>
         </g>
         <text x="277" y="82" font-size="14" fill="#777777">
-          32 Forkers
+          22 Forkers
         </text>
         <g transform="translate(253,90)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
@@ -252,7 +252,7 @@
           These metrics include private contributions
         </text>
         <text x="474" y="31" font-size="10" fill="#666666" font-style="italic" text-anchor="end">
-          Last updated 2026-11-12T04:52:13Z with mjun0812/github-metrics@v5.0.6
+          Last updated 2026-11-13T04:03:42Z with mjun0812/github-metrics@v5.0.6
         </text>
       </svg>
     </g>
