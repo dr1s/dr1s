@@ -36,7 +36,7 @@
             Followed by 28 users
           </text>
           <g data-block="calendar-grid">
-            <rect class="day" fill="#9be9a8" x="253" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#ebedf0" x="253" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#ebedf0" x="268" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#ebedf0" x="283" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#ebedf0" x="298" y="38" width="11" height="11" rx="2" ry="2"/>
@@ -46,8 +46,8 @@
             <rect class="day" fill="#ebedf0" x="358" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#ebedf0" x="373" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#ebedf0" x="388" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#ebedf0" x="403" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#216e39" x="418" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#216e39" x="403" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#ebedf0" x="418" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#ebedf0" x="433" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#ebedf0" x="448" y="38" width="11" height="11" rx="2" ry="2"/>
           </g>
@@ -252,7 +252,7 @@
           These metrics include private contributions
         </text>
         <text x="474" y="31" font-size="10" fill="#666666" font-style="italic" text-anchor="end">
-          Last updated 2026-11-26T05:55:42Z with mjun0812/github-metrics@v5.0.6
+          Last updated 2026-11-27T05:49:27Z with mjun0812/github-metrics@v5.0.6
         </text>
       </svg>
     </g>
